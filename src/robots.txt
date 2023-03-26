@@ -1,0 +1,6 @@
+User-agent: *
+Sitemap: http://www.mwprotection.com/sitemap.txt
+Disallow: /php_uploads/
+Disallow: /cgi/
+Disallow: /stats/
+ 
